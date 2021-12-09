@@ -6,3 +6,6 @@ get_header(string name, array $args = array());
 
 //for get footer template
 get_footer(string name, array $args = array());
+
+//for have posts
+have_posts(); //if have posts return true else false
