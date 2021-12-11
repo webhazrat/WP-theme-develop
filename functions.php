@@ -15,3 +15,9 @@ the_title(string $before, string $after, $echo true|false)
   
 // for display or retreive current post date
 the_date(string $format, string $before, string $after, $echo true|false)
+  
+// for display or retreive current post content
+the_content()
+  
+// for display or retreive current post content
+the_permalink()
