@@ -12,3 +12,6 @@ have_posts(); //if have posts return true else false
 
 // for display or retreive current post title
 the_title(string $before, string $after, $echo true|false)
+  
+// for display or retreive current post date
+the_date(string $format, string $before, string $after, $echo true|false)
