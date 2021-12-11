@@ -21,3 +21,4 @@ the_content()
   
 // for display or retreive current post content
 the_permalink()
+ 
