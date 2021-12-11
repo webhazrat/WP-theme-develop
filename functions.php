@@ -9,3 +9,6 @@ get_footer(string name, array $args = array());
 
 //for have posts
 have_posts(); //if have posts return true else false
+
+// for display or retreive current post title
+the_title(string $before, string $after, $echo true|false)
