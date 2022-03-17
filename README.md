@@ -8,8 +8,8 @@ https://www.wpbeginner.com/wp-tutorials/how-to-create-a-custom-wordpress-widget/
 1. [Online Web Tutor](https://www.youtube.com/c/OnlineWebTutor/playlists)
 
 ## Road Map
-1. Customizer API
-2. Metabox
-3. Short Code
-4. Woocommerce
-5. Elementor
+1. Meta Box
+2. Customizer
+3. Shortcode
+4. Plugin Development
+5. Woocommerce
