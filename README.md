@@ -9,8 +9,8 @@
 
 ## Road Map
 1. Custom Meta Box (Running) [Ref1](https://www.youtube.com/watch?v=DEpxb0jobjY&list=PLT9miexWCpPVvnZwVw5uA0ZwCOCBaf0Xn)
-2. Custom WP_Widget API
+2. Custom WP_Widget API (Widget Development) [Ref1](https://www.youtube.com/watch?v=xQHrZm9LqO0&list=PLT9miexWCpPV3cBfIgMtJ8qCgeB-AD125)
 3. WP_Customizer API
-4. Shortcode
+4. Shortcodes API
 5. Plugin Development
 6. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
