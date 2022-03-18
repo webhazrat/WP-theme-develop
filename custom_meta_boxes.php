@@ -96,3 +96,48 @@ function remove_meta_boxes_in(){
     remove_meta_box("remove_id", "dashboard", "side");
 }
 add_action("wp_dashboard_setup", "remove_meta_boxes_in");
+
+/*
+    ## Meta box features
+        1. text
+        2. textarea
+        3. select
+        4. radio
+        5. checkbox
+        6. image/media select
+        7. wp_editor
+        8. all pages and many more..
+*/  
+
+// Image select jquery
+?>
+<script>
+    jQuery(document).ready(function($){
+        var frame;
+        $('.image-upload').on( 'click', function(e) {
+            e.preventDefault();
+
+            console.log('clicked');
+
+            if (frame) {
+                frame = null;
+            }
+
+            frame = wp.media({
+                title: 'Frame title',
+                button: {
+                    text: 'Frame button text'
+                },
+                multiple: false
+            });
+
+            frame.on( 'select', function() {
+                var attachment = frame.state().get('selection').first().toJSON();
+                var url = attachment.url;
+                var id = attachment.id;
+            });
+
+            frame.open();
+        });
+    })
+  </script>
