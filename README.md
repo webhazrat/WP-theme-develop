@@ -8,8 +8,9 @@
 1. [Online Web Tutor](https://www.youtube.com/c/OnlineWebTutor/playlists)
 
 ## Road Map
-1. Meta Box (Running) [Ref1](https://www.youtube.com/watch?v=DEpxb0jobjY&list=PLT9miexWCpPVvnZwVw5uA0ZwCOCBaf0Xn)
-2. Customizer
-3. Shortcode
-4. Plugin Development
-5. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
+1. Custom Meta Box (Running) [Ref1](https://www.youtube.com/watch?v=DEpxb0jobjY&list=PLT9miexWCpPVvnZwVw5uA0ZwCOCBaf0Xn)
+2. Custom WP_Widget API
+3. WP_Customizer API
+4. Shortcode
+5. Plugin Development
+6. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
