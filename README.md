@@ -15,3 +15,4 @@
 5. Shortcodes API
 6. Plugin Development
 7. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
+8. Wordpress Premium Themes [Ref1](https://www.youtube.com/watch?v=ViZLtFIcSfo&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX)
