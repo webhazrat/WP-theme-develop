@@ -12,7 +12,7 @@
 2. Custom Gutenberg Blocks [Ref1](https://www.youtube.com/watch?v=ZyZ3KQH7rRQ&list=PLriKzYyLb28lHhftzU7Z_DJ32mvLy4KKH) [Ref2](https://www.youtube.com/watch?v=OjizassKKA8&list=PLT9miexWCpPVBUokGea5kWycHon6tIeG3)
 3. Custom WP_Widget API (Widget Development) [Ref1](https://www.youtube.com/watch?v=xQHrZm9LqO0&list=PLT9miexWCpPV3cBfIgMtJ8qCgeB-AD125)
 4. WP_Customizer API
-5. Shortcodes API
+5. Shortcodes API [Ref1](https://www.youtube.com/watch?v=pxR1C_90cx4&list=PLT9miexWCpPXsqHK2JzYYo3LhCfGWAiJK)
 6. Plugin Development [Ref1](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2)
 7. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
 8. Wordpress Premium Themes [Ref1](https://www.youtube.com/watch?v=ViZLtFIcSfo&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX)
