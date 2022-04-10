@@ -9,7 +9,7 @@
 
 ## Road Map
 1. Custom Meta Box (Running) [Ref1](https://www.youtube.com/watch?v=DEpxb0jobjY&list=PLT9miexWCpPVvnZwVw5uA0ZwCOCBaf0Xn)
-2. Custom Gutenberg Blocks [Ref1](https://www.youtube.com/watch?v=ZyZ3KQH7rRQ&list=PLriKzYyLb28lHhftzU7Z_DJ32mvLy4KKH)
+2. Custom Gutenberg Blocks [Ref1](https://www.youtube.com/watch?v=ZyZ3KQH7rRQ&list=PLriKzYyLb28lHhftzU7Z_DJ32mvLy4KKH) [Ref2](https://www.youtube.com/watch?v=OjizassKKA8&list=PLT9miexWCpPVBUokGea5kWycHon6tIeG3)
 3. Custom WP_Widget API (Widget Development) [Ref1](https://www.youtube.com/watch?v=xQHrZm9LqO0&list=PLT9miexWCpPV3cBfIgMtJ8qCgeB-AD125)
 4. WP_Customizer API
 5. Shortcodes API
