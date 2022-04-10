@@ -17,3 +17,4 @@
 7. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
 8. Wordpress Premium Themes [Ref1](https://www.youtube.com/watch?v=ViZLtFIcSfo&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX)
 9. Dynamic Multiple Input Customizer API [Ref1](https://madebydenis.com/adding-custom-controls-to-your-customization-api/)
+10. WP CLI [Ref1](https://www.youtube.com/watch?v=nBpeDRHr3Xs&list=PLT9miexWCpPV7EfmKOp2JWyR7GqRHSHtc)
