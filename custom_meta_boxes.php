@@ -73,7 +73,7 @@ function save_meta_box($post_id, $post){
 
     // save data to database
     $text = "";
-    if(isset($_POST["text_field"]){
+    if(isset($_POST["text_field"])){
         $text = sanitize_text_field($_POST["text_field"]);
     }else{
         $text = "";

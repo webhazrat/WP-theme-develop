@@ -3,6 +3,10 @@
     new WP_Customize_Color_Control();
     'sanitize_callback' => 'sanitize_hex_color'
 
+    // image
+    new WP_Customize_Image_Control();
+    'sanitize_callback' => 'esc_url_raw'
+
     // type: radio
     'sanitize_callback' => array( __CLASS__, 'sanitize_select' )
     public static function sanitize_select( $input, $setting ) {
