@@ -3,6 +3,7 @@
 2. https://www.wpbeginner.com/wp-tutorials/how-to-create-a-custom-wordpress-widget/
 3. https://madebydenis.com/meta-box-controls-image-and-gallery-upload-controls/
 4. https://www.pradipdebnath.com/2016/10/29/dynamically-addremove-input-fields-in-wordpress-metabox-using-jquery/
+5. Custom Controls : https://github.com/paulund/wordpress-theme-customizer-custom-controls/blob/master/theme-customizer-demo.php
 
 ## Youtube
 1. [Online Web Tutor](https://www.youtube.com/c/OnlineWebTutor/playlists)
