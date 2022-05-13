@@ -4,6 +4,7 @@
 3. https://madebydenis.com/meta-box-controls-image-and-gallery-upload-controls/
 4. https://www.pradipdebnath.com/2016/10/29/dynamically-addremove-input-fields-in-wordpress-metabox-using-jquery/
 5. Custom Controls : https://github.com/paulund/wordpress-theme-customizer-custom-controls/blob/master/theme-customizer-demo.php
+6. Customize Repeater: https://github.com/cristian-ungureanu/customizer-repeater
 
 ## Youtube
 1. [Online Web Tutor](https://www.youtube.com/c/OnlineWebTutor/playlists)
