@@ -16,8 +16,11 @@ foreach($users as $index=>$user){ ?>
 <?php 
 /*
     Get all pages
-    
 */
-
-
-?>
+$pages = get_pages(); ?>
+<select name="pages">
+<?php
+foreach($pages as $index=>$page){ ?>
+    <option value="<?php echo $page->ID; ?>"><?php echo $page->post_title; ?></option>
+<?php } ?>
+</select>
