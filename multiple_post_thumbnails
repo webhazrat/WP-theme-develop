@@ -1,3 +1,5 @@
+<?php 
+
 //init the meta box
 add_action( 'after_setup_theme', 'custom_postimage_setup' );
 function custom_postimage_setup(){
