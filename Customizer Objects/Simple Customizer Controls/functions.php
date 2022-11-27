@@ -34,6 +34,7 @@ function themeslug_customize_register( $wp_customize ) {
         'transport'      => 'refresh', // or postMessage
         'title'          => 'Setting One',
         'description'    => 'Setting One Description',
+        'default'        => '',
         'sanitize_callback' => ''
     ) );
     
