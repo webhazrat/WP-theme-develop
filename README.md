@@ -8,6 +8,7 @@
 
 ## Youtube
 1. [Online Web Tutor](https://www.youtube.com/c/OnlineWebTutor/playlists)
+2. [@codeytek](https://www.youtube.com/watch?v=lNtw4yxEydM&list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEVK9h)
 
 ## Road Map
 1. Custom Meta Box (Running) [Ref1](https://www.youtube.com/watch?v=DEpxb0jobjY&list=PLT9miexWCpPVvnZwVw5uA0ZwCOCBaf0Xn)
