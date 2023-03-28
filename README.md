@@ -16,7 +16,7 @@
 3. Custom WP_Widget API (Widget Development) [Ref1](https://www.youtube.com/watch?v=xQHrZm9LqO0&list=PLT9miexWCpPV3cBfIgMtJ8qCgeB-AD125)
 4. WP_Customizer API
 5. Shortcodes API [Ref1](https://www.youtube.com/watch?v=pxR1C_90cx4&list=PLT9miexWCpPXsqHK2JzYYo3LhCfGWAiJK)
-6. Plugin Development [Ref1](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2)
+6. Plugin Development [Ref1](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2) [Ref2](https://www.youtube.com/watch?v=ZTrekTzoc_c&list=PLT9miexWCpPUC5jFln66z-8uemSkxMxCa)
 7. Woocommerce [Ref1](https://www.youtube.com/watch?v=JMVTHnWxe0Y&list=PLT9miexWCpPUKzUhMvXiBqoFGsnqBPZ_v)
 8. Wordpress Premium Themes [Ref1](https://www.youtube.com/watch?v=ViZLtFIcSfo&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX)
 9. Dynamic Multiple Input Customizer API [Ref1](https://madebydenis.com/adding-custom-controls-to-your-customization-api/)
